@@ -1,4 +1,4 @@
-# Guilded Rainbow Role Changer
+# Guilded Rainbow Role 
 
 A Python bot that continuously cycles a Guilded server role through a list of colors, giving your role a rainbow effect.
 
