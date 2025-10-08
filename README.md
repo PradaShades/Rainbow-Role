@@ -22,7 +22,7 @@ Install dependencies with: `pip install aiohttp`
    `SERVER_ID = ""   # Your server ID`
 3. Optionally, customize the colors:  
    `RAINBOW_COLORS = [0xFF0000, 0xFF9900, 0xFFFF00, 0xA3E8FF, 0x00FF99, 0xA9A3FF, 0xFF99CC]`
-4. Run the bot: `python rainbow.bat`  
+4. Run the bot: `rainbow.bat`  
 5. Press `Ctrl+C` to stop the bot.
 
 ## Notes
