@@ -1,6 +1,6 @@
 # Guilded Rainbow Role 
 
-A Python bot that continuously cycles a Guilded server role through a list of colors, giving your role a rainbow effect.
+A Python bot that continuously cycles a Guilded server role through a list of colors, creating a rainbow effect for your role.
 
 ## Features
 - Automatically cycles a role through multiple colors
